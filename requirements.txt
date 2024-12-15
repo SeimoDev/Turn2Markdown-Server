@@ -2,3 +2,4 @@ fastapi
 aiofiles
 markitdown
 uvicorn
+markitdown
